@@ -23,5 +23,6 @@ checkLogin();
 * If you refresh the page, it will reset the array with the numbers in it, so you'll lose your progress.
 
 ## FUTURE!?
+* Use persistent LocalStorage to save progress between refreshes(For multi-day codebreaking)
 * Integrate it with the botcheck bot
 * Make a pretty GUI
